@@ -1,4 +1,6 @@
-# Scratch-2D-Games
+# Scratch-2D-Game
+
+My first experience of developing a 2D game built with Scratch by MIT
 
 Black Dragon and Brave Knight: https://scratch.mit.edu/projects/839093065/
 
